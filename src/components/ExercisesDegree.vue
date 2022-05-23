@@ -110,7 +110,7 @@ export default {
           prompt: false,
         })
       }
-      return null;19sunlight5s19s5s
+      return null;
     }
 
     generateValue();
